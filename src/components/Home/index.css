@@ -1,0 +1,33 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+  padding: 20px;
+  overflow: auto;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+  align-items: center;
+}
+.logout-button {
+  border: 1px solid #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  height: 35px;
+  padding: 10px;
+  text-align: center;
+}
+.content-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+.digital-card {
+  width: 800px;
+  height: 430px;
+  margin-top: 20px;
+}
